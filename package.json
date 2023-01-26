@@ -1,0 +1,15 @@
+{
+  "name": "careerguru",
+  "version": "1.0.0",
+  "description": "CareerGuru",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "author": "Srishty Karthikeya",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
